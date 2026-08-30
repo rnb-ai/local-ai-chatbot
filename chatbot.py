@@ -106,7 +106,7 @@ def chat(user_input):
 
 def main():
     print("=" * 50)
-    print("             LOCAL AI CHATBOT")
+    print("                 LOCAL AI CHATBOT")
     print("=" * 50)
     print(f"Model: {MODEL}")
     print("Type /help for available commands.\n")
